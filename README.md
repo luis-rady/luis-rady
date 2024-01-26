@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Luis Rady</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate iOS developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-rady&label=Profile%20views&color=0e75b6&style=flat" alt="luis-rady" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luis-rady" alt="luis-rady" /></a> </p>
 
-- 🔭 I’m currently working on [Jonajo Consulting](https://www.jonajo.com/)
+- 🔭 I’m currently working on [Yelp](https://www.yelp.com/about)
 
-- 🌱 I’m currently learning **Angular, Flutter**
+- 🌱 I’m currently learning **ReactJS, iOS**
 
 - 💬 Ask me about **Mobile and Frontend Development**
 
-- 📫 How to reach me **crdluis97@gmail.com**
+- 📫 How to reach me **luis.rady.colunga@gmail.com**
 
 - ⚡ Fun fact **Big fan of Lord of the Rings**
 
